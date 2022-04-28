@@ -1,0 +1,15 @@
+@media (max-width: 576px) {
+    .login-box, .register-box {
+        margin-top: -13rem;
+        width: 100%;
+    }
+}
+
+.brand-link {
+    padding: 0;
+    text-align: center;
+}
+
+.brand-link img {
+    height: 50px;
+}
